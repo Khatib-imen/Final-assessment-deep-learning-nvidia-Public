@@ -1,4 +1,4 @@
-# Final-assessment-deep-learning-nvidia-Public
+# Final-assessment-deep-learning-nvidia
 # Classification de fruits frais et pourris avec PyTorch
 
 Ce projet consiste à entraîner un modèle de classification d'images pour distinguer les fruits frais des fruits pourris. Le modèle est basé sur l'architecture VGG16 pré-entraînée sur ImageNet, et utilise des techniques de transfer learning, d'augmentation de données et de fine-tuning pour atteindre une précision de validation d'au moins 92%.
